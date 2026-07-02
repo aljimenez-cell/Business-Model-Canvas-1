@@ -1,0 +1,8 @@
+{
+  "name": "Lienzo de Modelos de Negocio Inteligente",
+  "description": "Un consultor de estrategia de negocios de élite impulsado por IA para crear, analizar y optimizar tu Business Model Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
